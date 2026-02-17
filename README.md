@@ -31,13 +31,6 @@ I am a cybersecurity enthusiast transitioning into the Blue Team space with a fo
 * **Detection Logic:** Authored SPL to correlate **Event ID 4625** (Failed Login) with **Event ID 4624** (Successful Login) to detect password spraying.
 * **Visibility:** Configured **Sysmon** to track process creation (**ID 1**) and network connections (**ID 3**).
 
-
-
-### 🔹 [SOC-Playbook & Incident Response](https://github.com/yourusername/project-link)
-*Standardized response procedures for common Windows alerts.*
-* Developed automated workflows for **Account Lockouts (4740)**.
-* Mapped detection gaps using the **MITRE ATT&CK Navigator**.
-
 ### 🔹 [Network Reconnaissance & IDOR Exploitation](https://github.com/yourusername/project-link)
 *Hands-on walkthrough of web and network vulnerabilities.*
 * Documented service enumeration techniques using **Nmap** scripts.
