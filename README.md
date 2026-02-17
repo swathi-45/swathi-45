@@ -1,108 +1,60 @@
-# 🛡 Swathi Varre
-**SOC Analyst | CEH v13 | Threat Detection | Incident Investigation | Security Automation**
+# 👋 Hi, I'm Swathi Varre 
+### **Junior SOC Analyst | Detection Engineering | Windows Security Specialist**
 
 ---
 
-## 👩‍💻 Professional Summary
+## 🚀 Professional Overview
+I am a cybersecurity enthusiast transitioning into the Blue Team space with a focus on **Detection Engineering** and **Windows Log Analysis**. I specialize in bridging the gap between offensive techniques (CEH v13 mindset) and defensive monitoring using Splunk and MITRE ATT&CK.
 
-Certified Ethical Hacker (CEH v13) with hands-on experience in security labs, attack simulations, and defensive log analysis. Strong foundation in networking, Linux systems, and web application security. Focused on SOC operations, threat detection, incident investigation, and automation of security workflows.
-
-Actively building practical experience through lab simulations, CTF challenges, and security-focused development projects.
-
----
-
-## 🔍 Security Experience & Practical Work
-
-### 🛡 Web Application Security
-- Performed vulnerability assessments using Burp Suite, Nmap, and SQLmap
-- Identified SQL Injection and XSS vulnerabilities in controlled lab environments
-- Conducted directory brute-force and authentication testing exercises
-
-### 🌐 Network Analysis & Forensics
-- Analyzed PCAP files using Wireshark to detect suspicious traffic patterns
-- Performed service enumeration and port scanning using Nmap
-- Investigated anomalous DNS and HTTP traffic behavior
-
-### ⚔️ Attack Simulation & Exploitation
-- Simulated brute-force attacks using Hydra
-- Practiced Linux privilege escalation techniques
-- Conducted exploitation exercises using Metasploit Framework
-
-### 🧠 SOC & Incident Investigation Practice
-- Analyzed Windows Event Logs for failed login patterns
-- Identified brute-force attempts through log correlation
-- Mapped attack techniques to MITRE ATT&CK framework
-- Documented CTF investigations (Web, Forensics, Privilege Escalation)
+* 🔭 **Current Focus:** Advanced Log Correlation & Sigma Rules
+* 🛡️ **Certifications:** Certified Ethical Hacker (CEH v13)
+* ⚡ **Fun Fact:** I spend my free time breaking things in my lab just to see what the logs look like.
 
 ---
 
-## 🧪 Featured Security Repositories
+## 🛠️ Technical Stack
 
-### 🔹 ML-Phishing-Detection
-Machine Learning model using SVM & LightGBM for phishing URL detection.
-- Feature engineering on URL characteristics
-- Achieved 92% F1-score
-- Model evaluation and performance tuning
-
-### 🔹 Network-Forensics-Reports
-Collection of:
-- PCAP analysis reports
-- Incident investigation summaries
-- Traffic pattern documentation
-
-### 🔹 CTF-Writeups
-Structured writeups including:
-- Attack methodology
-- Tools used
-- Root cause analysis
-- Remediation insights
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **SIEM / Logging** | Splunk (SPL), Sysmon, Windows Event Forwarding (WEF) |
+| **Analysis** | Wireshark, Process Hacker, Windows Event Viewer |
+| **Offensive** | Nmap, Metasploit, Hydra, Burp Suite |
+| **Frameworks** | MITRE ATT&CK, NIST 800-61 |
 
 ---
 
-## 🛠 Technical Skillset
+## 🧪 Featured Labs & Projects
 
-### Operating Systems
-- Kali Linux
-- Ubuntu
-- Windows
+### 🔹 [Windows + Splunk Detection Lab](https://github.com/yourusername/project-link)
+*Created a telemetry pipeline to monitor and alert on adversary TTPs.*
+* **Adversary Emulation:** Simulated Brute Force and RDP Hijacking.
+* **Detection Logic:** Authored SPL to correlate **Event ID 4625** (Failed Login) with **Event ID 4624** (Successful Login) to detect password spraying.
+* **Visibility:** Configured **Sysmon** to track process creation (**ID 1**) and network connections (**ID 3**).
 
-### Security Tools
-- Nmap
-- Burp Suite
-- Wireshark
-- Metasploit
-- SQLmap
-- Hydra
 
-### Threat Intelligence & Analysis
-- VirusTotal
-- Cisco Talos
-- IBM X-Force
-- MXToolbox
 
-### Programming & Automation
-- C / C++
-- Java
+### 🔹 [SOC-Playbook & Incident Response](https://github.com/yourusername/project-link)
+*Standardized response procedures for common Windows alerts.*
+* Developed automated workflows for **Account Lockouts (4740)**.
+* Mapped detection gaps using the **MITRE ATT&CK Navigator**.
 
+### 🔹 [Network Reconnaissance & IDOR Exploitation](https://github.com/yourusername/project-link)
+*Hands-on walkthrough of web and network vulnerabilities.*
+* Documented service enumeration techniques using **Nmap** scripts.
+* Demonstrated IDOR vulnerability mitigation strategies.
 
 ---
 
-## 📜 Certification
-- Certified Ethical Hacker [(CEH v13)](https://drive.google.com/file/d/1LwIp6OJ1GZjSR8nxoqE_68X7u3H6mNc5/view?usp=sharing) – EC-Council
+## 📊 GitHub Stats
+![Swathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
-## 📈 Current Focus
-- Advanced log analysis
-- Detection engineering fundamentals
-- SIEM exposure (Splunk / ELK)
-- Threat hunting techniques
-- Security automation scripting
+## 📧 Connect with Me
+* **LinkedIn:** [linkedin.com/in/swathi-varre](https://linkedin.com/in/yourprofile)
+* **Portfolio:** [YourWebsite.com](https://yourwebsite.com)
+* **Email:** your.email@example.com
 
 ---
-
-## 📫 Connect
-- 📧 Email : swathivarre03@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/swathi-varre-53801a336)
-- 💻 [GitHub](https://github.com/swathi-45/portfolio)
-
+*“The goal isn't just to see the alert; it's to understand the story behind the log.”*
