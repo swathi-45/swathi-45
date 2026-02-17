@@ -32,12 +32,6 @@ I am a cybersecurity enthusiast transitioning into the Blue Team space with a fo
 * **Visibility:** Configured **Sysmon** to track process creation (**ID 1**) and network connections (**ID 3**).
 
 
-
-### 🔹 [SOC-Playbook & Incident Response](https://github.com/yourusername/project-link)
-*Standardized response procedures for common Windows alerts.*
-* Developed automated workflows for **Account Lockouts (4740)**.
-* Mapped detection gaps using the **MITRE ATT&CK Navigator**.
-
 ### 🔹 [Network Reconnaissance & IDOR Exploitation](https://github.com/yourusername/project-link)
 *Hands-on walkthrough of web and network vulnerabilities.*
 * Documented service enumeration techniques using **Nmap** scripts.
@@ -52,9 +46,8 @@ I am a cybersecurity enthusiast transitioning into the Blue Team space with a fo
 ---
 
 ## 📧 Connect with Me
-* **LinkedIn:** [linkedin.com/in/swathi-varre](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [linkedin.com/in/swathi-varre](https://www.linkedin.com/in/swathi-varre-53801a336/)
 * **Portfolio:** [YourWebsite.com](https://yourwebsite.com)
-* **Email:** your.email@example.com
-
+* **Email:** swathivarre03@gmail.com
 ---
 *“The goal isn't just to see the alert; it's to understand the story behind the log.”*
